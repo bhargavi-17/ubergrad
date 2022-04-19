@@ -1,0 +1,66 @@
+.MoreStatusOnUsa-main-Div{
+    background: #e5e7eb;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.EligibilityRequirements-top-div{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.hr-style{
+    max-width: 4rem;
+    margin: auto;
+    height: 0.3rem;
+    background-color: rgb(243, 102, 56);
+}
+
+h6{
+    padding-top: 6px;
+    /* text-align: center; */
+    font-size: 34px;
+    align-items: center;
+}
+
+.MoreStatusOnUsa-gridContainer1{
+    /* border: 3px solid violet; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    gap: 20px;
+    padding: 25px;
+}
+.container1-box{
+    border-radius: 10px;
+    background: white;
+    padding: 16px;
+    
+}
+
+.container1-box-grid{
+    display:flex;
+    flex-direction: row;
+}
+.container1-box-grid-top-div{
+    text-align: left;
+}
+.container1-box-grid-top-div h{
+    font-size: 20px;
+}
+.container1-box-grid-right-div img{
+    height: 72px;
+    width: 72px;
+}
+.container1-box-bottom{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+}
+.container1-box-bottom-box1{
+    flex:1;
+}
+.box1-top img{
+    text-align: left;
+    width: 36px;
+    height: 36px;
+}

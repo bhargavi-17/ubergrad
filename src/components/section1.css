@@ -1,0 +1,11 @@
+.hr-style{
+    max-width: 5rem;
+    margin: auto;
+    height: 0.4rem;
+    background-color: rgb(243, 102, 56);
+}
+@media screen and (max-width: 768px){
+    #nav1{
+        margin-top: 15%;
+    }
+}

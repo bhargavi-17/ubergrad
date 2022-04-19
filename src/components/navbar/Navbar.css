@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px){
+    #res{
+        display:flex;
+        flex-direction:column;
+        justify-content: space-between;
+        padding: 2%;
+    }
+    #div1{
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 4%;
+    }
+}
